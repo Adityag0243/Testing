@@ -31,7 +31,7 @@ signed main(){
         int n;
         cin >> n;
         vi v(n);
-        l(i,0,n) cin >> v[i];
+        l(i,0,n) cin >> v[i];]cout<<wsnxl sc;nc;f
         
     }
 }
